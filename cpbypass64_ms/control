@@ -1,0 +1,9 @@
+Package: jp.dora2ios.cpbypass64
+Name: CP-Bypass64
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: JB detection bypass for CrackProof.
+Maintainer: dora2ios
+Author: dora2ios
+Section: System
